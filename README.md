@@ -1,2 +1,2 @@
 # test-repository
-![](huevos rancheros.jfif)
+[Huevos Rancheros](huevos rancheros.jfif)
