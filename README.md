@@ -1,2 +1,2 @@
 # test-repository
-![Huevos Rancheros](huevos rancheros.jpeg)
+![Huevos Rancheros](/huevos rancheros.jpeg)
